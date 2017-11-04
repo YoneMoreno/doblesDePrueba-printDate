@@ -1,15 +1,16 @@
+import java.text.ParseException;
 import java.util.Date;
 
 public class PrintDate {
 
-    consola consola;
+    Consola consola;
 
-    public PrintDate(consola consola){
+    public PrintDate(Consola consola, DateOwn date){
         this.consola = consola;
     }
 
-    public void currentDay () {
+    public void currentDay () throws ParseException {
         //System.out.println( new Date());
-        consola.imprimirFecha(new Date());
+        consola.imprimirFecha( new DateOwn());
     }
 }
