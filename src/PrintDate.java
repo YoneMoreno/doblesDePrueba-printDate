@@ -10,7 +10,6 @@ public class PrintDate {
     }
 
     public void currentDay () throws ParseException {
-        //System.out.println( new Date());
         consola.imprimirFecha( new DateOwn());
     }
 }

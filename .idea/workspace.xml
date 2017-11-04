@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="366fddea-ff76-4007-96f1-cef773af5b50" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DateOwn.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/ConsolaMock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/DateOwnStub.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/consola.java" afterPath="$PROJECT_DIR$/src/Consola.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/kataprintdate/PrintDate.class" afterPath="$PROJECT_DIR$/out/production/kataprintdate/PrintDate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/kataprintdate/consola.class" afterPath="$PROJECT_DIR$/out/production/kataprintdate/consola.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/kataprintdate/PrintDateShould.class" afterPath="$PROJECT_DIR$/out/test/kataprintdate/PrintDateShould.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PrintDate.java" afterPath="$PROJECT_DIR$/src/PrintDate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/PrintDateShould.java" afterPath="$PROJECT_DIR$/test/PrintDateShould.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Consola.java" afterPath="$PROJECT_DIR$/src/Consola.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DateOwn.java" afterPath="$PROJECT_DIR$/src/DateOwn.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/ConsolaMock.java" afterPath="$PROJECT_DIR$/test/ConsolaMock.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,14 +31,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DateOwn.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DateOwn.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DateOwn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#91#92#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,17 +47,17 @@
       <file leaf-file-name="Consola.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Consola.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="37" />
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding>
-                <element signature="e#93#94#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#68#69#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DateOwnStub.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DateOwnStub.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/DateOwnStub.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -81,8 +75,8 @@
       <file leaf-file-name="ConsolaMock.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/ConsolaMock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="119">
+              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -91,7 +85,7 @@
       <file leaf-file-name="PrintDateShould.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/PrintDateShould.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="374">
               <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -127,11 +121,11 @@
         <option value="$PROJECT_DIR$/src/consola.java" />
         <option value="$PROJECT_DIR$/test/consolaTest.java" />
         <option value="$PROJECT_DIR$/src/PrintDate.java" />
-        <option value="$PROJECT_DIR$/src/Consola.java" />
-        <option value="$PROJECT_DIR$/test/ConsolaMock.java" />
-        <option value="$PROJECT_DIR$/src/DateOwn.java" />
         <option value="$PROJECT_DIR$/test/PrintDateShould.java" />
         <option value="$PROJECT_DIR$/test/DateOwnStub.java" />
+        <option value="$PROJECT_DIR$/test/ConsolaMock.java" />
+        <option value="$PROJECT_DIR$/src/Consola.java" />
+        <option value="$PROJECT_DIR$/src/DateOwn.java" />
       </list>
     </option>
   </component>
@@ -344,12 +338,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrintDateShould - 2017.11.04 at 12h 50m 11s.xml">
-      <configuration name="PrintDateShould" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrintDateShould - 2017.11.04 at 12h 50m 42s.xml">
-      <configuration name="PrintDateShould" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PrintDateShould - 2017.11.04 at 13h 09m 26s.xml">
       <configuration name="PrintDateShould" configurationId="JUnit" />
     </history-entry>
@@ -374,6 +362,12 @@
     <history-entry file="PrintDateShould - 2017.11.04 at 13h 37m 34s.xml">
       <configuration name="PrintDateShould" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PrintDateShould - 2017.11.04 at 13h 39m 38s.xml">
+      <configuration name="PrintDateShould" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrintDateShould - 2017.11.04 at 13h 46m 14s.xml">
+      <configuration name="PrintDateShould" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -390,7 +384,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12369598" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.78986585" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25036603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -453,25 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/ConsolaMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Consola.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="37" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PrintDate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -480,29 +455,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#156#157#0" expanded="true" />
             <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DateOwn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/PrintDateShould.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -516,6 +468,48 @@
             <element signature="e#148#149#0" expanded="true" />
             <element signature="e#194#195#0" expanded="true" />
             <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/PrintDateShould.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ConsolaMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Consola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DateOwn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
           </folding>
         </state>
       </provider>

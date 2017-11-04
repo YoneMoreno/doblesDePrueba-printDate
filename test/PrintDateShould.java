@@ -15,11 +15,13 @@ public class PrintDateShould {
     }
     @Test
     public void PrintDate_print_date() throws ParseException {
-        ConsolaMock consola = new ConsolaMock();
-        PrintDate printDate = new PrintDate(consola,new DateOwn());
-        printDate.currentDay();
-        assertThat(consola.llamado, is (true));
         String fechaTest = "2014-09-15 15:03:23";
+        ConsolaMock consolaMock = new ConsolaMock();
+        PrintDate printDate = new PrintDate(consolaMock,new DateOwn());
+
+        printDate.currentDay();
+
+        assertThat(consolaMock.llamado, is (true));
         assertThat(fechaTest, is(new DateOwnStub(fechaTest).toString()));
 
     }
